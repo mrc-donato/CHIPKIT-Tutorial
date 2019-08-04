@@ -1,6 +1,6 @@
 # Tutorial on Agile Research Test Chips
 
-![alt text](/Chip_gallery.png)
+![alt text](/Chip_Gallery.png)
 
 ## Overview
 
