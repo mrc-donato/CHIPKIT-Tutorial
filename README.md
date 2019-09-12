@@ -1,4 +1,4 @@
-# Tutorial on Agile Research Test Chips
+# CHIPKIT: Tutorial on Agile Research Test Chips
 
 ![alt text](/Chip_Gallery.png)
 
