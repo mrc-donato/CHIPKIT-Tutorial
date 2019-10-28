@@ -4,7 +4,7 @@
 
 ## Updates
 
-<p> The tutorial slides are available [here](./docs/CHIPKIT_Tutorial_\(MICRO52\).pdf)</p>
+<p> The tutorial slides are available [here](docs/CHIPKIT_Tutorial_(MICRO52).pdf)</p>
 
 ## Overview
 
