@@ -4,7 +4,7 @@
 
 ## Updates
 
-The tutorial slides are available [here](https://github.com/mrc-donato/CHIPKIT-Tutorial/raw/master/docs/CHIPKIT_Tutorial_MICRO52.pdf)
+The tutorial slides are available [here](https://www.marcodonato.com/assets/CHIPKIT_Tutorial_MICRO52.pdf)
 
 ## Overview
 
