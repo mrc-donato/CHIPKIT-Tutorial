@@ -1,4 +1,4 @@
-# Tutorial on Agile Research Test Chips
+# CHIPKIT: Tutorial on Agile Research Test Chips
 
 ![Harvard Chip Gallery](./images/Chip_Gallery.png)
 
@@ -34,7 +34,6 @@ This tutorial sets out to present a clear and straightforward template for a mod
 
 # Organizers and Affiliations
 
-
 <p><img src="images/PNW.png" width="120" align="left" border="50px"> <b>Paul Whatmough, Arm Research</b>: Paul N. Whatmough received the B.Eng. degree (first class Hons.) from the University of Lancaster, in 2003, the M.Sc. degree (with distinction) from the University of Bristol, in 2004, and the Doctorate degree in electronic engineering from University College London, in 2012, all in the UK.  He currently leads research on hardware for machine learning at Arm ML Research group in Boston, MA, and is a part-time Associate at Harvard University, MA. He has taped out more than a dozen chips to date, in industrial and academic research groups.<br><br></p>
 
 
@@ -45,3 +44,4 @@ This tutorial sets out to present a clear and straightforward template for a mod
 <p><img src="images/DB.png" width="120" align="left" border="50px"> <b>David Brooks, Harvard University</b>: David Brooks is the Haley Family Professor of Computer Science in the School of Engineering and Applied Sciences at Harvard University. Prior to joining Harvard, he was a research staff member at IBM T.J. Watson Research Center. Prof. Brooks received his BS in Electrical Engineering at the University of Southern California and MA and PhD degrees in Electrical Engineering at Princeton University. His research interests include resilient and power-efficient computer hardware and software design for high-performance and embedded systems. Prof. Brooks is a Fellow of the IEEE and has received several honors and awards including the ACM Maurice Wilkes Award and ISCA Influential Paper Award.</p>
 
 <p><img src="images/GYW.png" width="120" align="left" border="50px"> <b>Gu-Yeon Wei, Harvard University</b>: Gu-Yeon Wei is Robert and Suzanne Case Professor of Electrical Engineering and Computer Science in the Paulson School of Engineering and Applied Sciences (SEAS) at Harvard University. He received his BS, MS, and PhD degrees in Electrical Engineering from Stanford University. His research interests span multiple layers of a computing system: mixed-signal integrated circuits, computer architecture, and design tools for efficient hardware. His research efforts focus on identifying synergistic opportunities across these layers to develop energy-efficient solutions for a broad range of systems from flapping-wing microrobots to machine learning hardware for IoT devices to large-scale servers.</p>
+
