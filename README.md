@@ -1,10 +1,14 @@
-# CHIPKIT: Tutorial on Agile Research Test Chips
+# CHIPKIT: Tutorial on Agile Research Test Chips @ ISCA2020
 
 ![Harvard Chip Gallery](./images/Chip_Gallery.png)
 
 ## Updates
 
-The tutorial slides are available [here](https://www.marcodonato.com/assets/CHIPKIT_Tutorial_MICRO52.pdf)
+<p style="text-align: center;"> <b>CHIPKIT tutorial @ ISCA2020, May 31st</b></p>
+The tutorial is going to be offered in a virtual format (details TBD).
+
+## Previous tutorials
+[MICRO 2019](https://www.microarch.org/micro52/program/workshops.html)
 
 ## Overview
 
@@ -14,16 +18,22 @@ This tutorial sets out to present a clear and straightforward template for a mod
 
 ## Outline
 
-### CHIPKIT Material
-* Part 1 Intro
-* Part 2 Overview of Recent Harvard Test Chips
-* Part 3 M-Class SoCs
-* Part 4 A-Class SoCs
-* Part 5 Custom IP Development
-* Part 6 Physical Design
-* Part 7 Bring up and Testing
+* Intro
+* Overview of Recent Harvard Test Chips
+* M-Class SoCs
+* A-Class SoCs
+* Custom IP Development
+* Physical Design
+* Bring up and Testing
+* The agile chip design landscape
+    * PyMTL3: A Python Framework for Open-Source Hardware Modeling, Generation, Simulation, and Verification (Christopher Batten, _Cornell University_)
+    * OpenROAD: An open-source RTL-to-GDS tool with advanced-node capability (Andrew Kahng, _UCSD_)
+    * Predictable Accelerator Design (Adrian Sampson, _Cornell University_) 
+    * Closing the algorithm/hardware design and verification loop with speed via high-level synthesis (Theirry Tambe, _Harvard University_)
+    * Arm Research Enablement
 
-### Guest Speakers
+
+### Invited talks abstracts
 
 **PyMTL3: A Python Framework for Open-Source Hardware Modeling, Generation, Simulation, and Verification** (Christopher Batten, _Cornell University_)
 
