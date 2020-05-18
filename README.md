@@ -14,11 +14,50 @@ This tutorial sets out to present a clear and straightforward template for a mod
 
 ## Outline
 
-* The value of research test chips: fabrication routes, process technologies, project planning
-* Test chip architectures: CPUs, peripherals, memories, interconnects and frameworks
-* Design methodologies for custom blocks: Verilog, SystemVerilog, HLS and beyond
-* Physical design flow: linting, synthesis, place and route, DRC/LVS, timing closure
-* Bring up and test: packaging, PCBs, clocking, testing flows
+### CHIPKIT Material
+* Part 1 Intro
+* Part 2 Overview of Recent Harvard Test Chips
+* Part 3 M-Class SoCs
+* Part 4 A-Class SoCs
+* Part 5 Custom IP Development
+* Part 6 Physical Design
+* Part 7 Bring up and Testing
+
+### Guest Speakers
+
+**PyMTL3: A Python Framework for Open-Source Hardware Modeling, Generation, Simulation, and Verification** (Christopher Batten, _Cornell University_)
+
+PyMTL3 is a new Python-based framework for hardware modeling, generation,
+simulation, and verification well suited to implementing computer
+architecture test chips. PyMTL2 was developed several years ago and has
+been used extensively in research, teaching, and prototyping. PyMTL3
+retains some of the best features of PyMTL2 including: support for highly
+paramterized accelerator generators; a unified framework for functional-,
+cycle-, and register-transfer level modeling; pure-Python-based
+simulation; elegant translation of PyMTL RTL to Verilog RTL; and
+first-class support for co-simulation of PyMTL and Verilog models through
+Python/Verilator integration. PyMTL3 additionally includes a completely
+new execution model based on hierarchical static scheduling of concurrent
+sequential update blocks; improved simulation performance; first-class
+support for method-based interfaces; PyMTL passes for analyzing,
+instrumenting, and transforming PyMTL models; and improved verification
+methodologies. This talk will introduce the PyMTL3 framework and
+walk-through a hands-on demo illustrating some of the more basic features
+for register-transfer-level modeling with PyMTL3.
+
+**OpenROAD: An open-source RTL-to-GDS tool with advanced-node capability** (Andrew Kahng, _UCSD_)
+
+Open-source EDA boosts the lifecycle and robustness of academic EDA research while providing a bridge to industrial design practice. For architects and IC designers, open-source tool chains can enable early prototyping and design space exploration, and can help bring ideas to manufacturing-ready layout with reduced schedule and cost. We will give an overview and demo of the forthcoming v1.0 release (July 2020) of RTL-to-GDS automation from the OpenROAD project https://theopenroadproject.org/ .   The talk will also note relevant aspects of tool architecture, database, software engineering, and potential synergies with future hardware and architecture innovation.
+
+**Predictable Accelerator Design** (Adrian Sampson, _Cornell University_) 
+
+We need to make it easier to design custom accelerators, especially for reconfigurable hardware (i.e., FPGAs). RTL design is too low level for most domain experts. The best current alternative is C-based high-level synthesis (HLS). The thesis of this talk is that far better programming models than traditional HLS are possible. Repurposing a legacy software language for hardware design inevitably introduces a semantic chasm and concomitant usability pitfalls; we demonstrate empirically that HLS can be *unpredictable* in the sense that small, innocuous-seeming source code changes can lead to large, counter-intuitive swings in the area and latency of the generated hardware. We are working on a programming language, Dahlia, that uses a type system to restrict accelerator designs to a subset with predictable performance. Based on Dahlia, we are designing a compiler infrastructure to bring predictable hardware generation to any DSL.
+
+**Closing the algorithm/hardware design and verification loop with speed via high-level synthesis** (Theirry Tambe, _Harvard University_)
+
+The waning effectiveness of Moore’s law has spurred the rise of application-driven architectures as CMOS scaling no longer  provides the power and performance fruits it once did. In order to keep delivering energy efficiency gains, specialized SoCs are exhibiting skyrocketing design complexity with development efforts increasing each generation as a result. In this talk, we will shed light on an agile algorithm-hardware co-design and co-verification methodology powered by high-level synthesis (HLS), which enabled us to reduce front-end VLSI design efforts by orders of magnitude. We will provide some background and share details on best known practices, pitfalls to avoid, and overall learnings from a high-productivity digital VLSI flow which leverages HLS in order to efficiently close the loop between the software modeling and the frontend hardware implementation.
+
+**Arm Research Enablement** (TBD)
 
 ## References
 [1] [P. N. Whatmough, S. K. Lee, H. Lee, S. Rama, D. Brooks and G. Wei, in IEEE International Solid-State Circuits Conference, 2017](https://ieeexplore.ieee.org/abstract/document/7870351)
