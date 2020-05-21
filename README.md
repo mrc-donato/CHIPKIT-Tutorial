@@ -11,6 +11,13 @@
 <p style="text-align: center;"> <b>CHIPKIT tutorial @ ISCA2020, May 31st</b></p>
 The tutorial is going to be offered in a virtual format (details TBD).
 
+Date: Saturday, May 30th
+
+Location: Online
+
+[Register for tutorial](https://www.iscaconf.org/isca2020/attend/register.html)
+
+
 ## Overview
 
 Research test chips are the ultimate experiment to demonstrate the true value of novel computer architecture innovations. They are always very highly regarded by reviewers as the most honest evaluation of a new hardware proposal.  In addition, there is a huge pedagogical value in taping out test chips, as it offers insight on the impact of real hardware and microarchitecture details that are critical in guiding higher level architecture decisions and trade offs.  Nonetheless, despite all this, taping out test chips remains a challenge for those who are following this path for the first time.  Traditionally, research chips have been time consuming to design, fabricate and test, and often error prone - potentially requiring re-spins to fix problems.
