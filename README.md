@@ -22,9 +22,9 @@ Research test chips are the ultimate experiment to demonstrate the true value of
 
 This tutorial sets out to present a clear and straightforward template for a modern design flow for rapid, agile, and successful tape out of research test chips. We describe a front-to-back design example, drawing on many generations of test chips (shown in the illustration below) following a consistent design approach [1], [2], [3], [4], [5].  To help researchers start up their own SoC designs, the content of this tutorial is supported with the release of our **CHIPKIT** project, which provides a comprehensive set of open source resources for the design and implementation of research tapeouts. The project includes a sample SoC design which leverages this design methodology for demonstrating novel specialized hardware architectures, using the **CHIPKIT** infrastructure.
 
-#### Open Source Project [Github](https://github.com/whatmough/CHIPKIT)
+#### Open Source Project [\[Github\]](https://github.com/whatmough/CHIPKIT)
 
-#### Companion Paper [(IEEEXplore)](https://ieeexplore.ieee.org/document/9096507) [(Arxiv)](https://arxiv.org/abs/2001.04504) 
+#### Companion Paper [\[IEEEXplore\]](https://ieeexplore.ieee.org/document/9096507) [\[Arxiv\]](https://arxiv.org/abs/2001.04504) 
 
 
 ## Tutorial Outline
@@ -47,8 +47,13 @@ paramterized accelerator generators; a unified framework for functional-, cycle-
 support for method-based interfaces; PyMTL passes for analyzing, instrumenting, and transforming PyMTL models; and improved verification methodologies. This talk will introduce the PyMTL3 framework and walk-through a hands-on demo illustrating some of the more basic features for register-transfer-level modeling with PyMTL3.
 
 * **OpenROAD: An open-source RTL-to-GDS tool with advanced-node capability** (Andrew Kahng, _UCSD_)
+    * Open-source EDA boosts the lifecycle and robustness of academic EDA research while providing a bridge to industrial design practice. For architects and IC designers, open-source tool chains can enable early prototyping and design space exploration, and can help bring ideas to manufacturing-ready layout with reduced schedule and cost. We will give an overview and demo of the forthcoming v1.0 release (July 2020) of RTL-to-GDS automation from the OpenROAD project https://theopenroadproject.org/ .   The talk will also note relevant aspects of tool architecture, database, software engineering, and potential synergies with future hardware and architecture innovation.
+    
 * **Predictable Accelerator Design** (Adrian Sampson, _Cornell University_) 
+    * We need to make it easier to design custom accelerators, especially for reconfigurable hardware (i.e., FPGAs). RTL design is too low level for most domain experts. The best current alternative is C-based high-level synthesis (HLS). The thesis of this talk is that far better programming models than traditional HLS are possible. Repurposing a legacy software language for hardware design inevitably introduces a semantic chasm and concomitant usability pitfalls; we demonstrate empirically that HLS can be *unpredictable* in the sense that small, innocuous-seeming source code changes can lead to large, counter-intuitive swings in the area and latency of the generated hardware. We are working on a programming language, Dahlia, that uses a type system to restrict accelerator designs to a subset with predictable performance. Based on Dahlia, we are designing a compiler infrastructure to bring predictable hardware generation to any DSL.
+    
 * **Closing the algorithm/hardware design and verification loop with speed via high-level synthesis** (Thierry Tambe, _Harvard University_)
+    * The waning effectiveness of Moore’s law has spurred the rise of application-driven architectures as CMOS scaling no longer  provides the power and performance fruits it once did. In order to keep delivering energy efficiency gains, specialized SoCs are exhibiting skyrocketing design complexity with development efforts increasing each generation as a result. In this talk, we will shed light on an agile algorithm-hardware co-design and co-verification methodology powered by high-level synthesis (HLS), which enabled us to reduce front-end VLSI design efforts by orders of magnitude. We will provide some background and share details on best known practices, pitfalls to avoid, and overall learnings from a high-productivity digital VLSI flow which leverages HLS in order to efficiently close the loop between the software modeling and the frontend hardware implementation.
 * **Arm Academic Enablement Programs** (Shuojin Hang _Arm Education and Research_)  
     * At Arm, we value academic-industry collaboration as a driving factor of our ever-evolving industry. As a result, we endeavour to lower the barriers for researchers and educators to access and harness our technologies. In this session, I will talk about the Education and Research Enablement Kits that are serving universities and institutions worldwide. I will also explain how academics can access a plethora Arm IPs for research and education purposes.
 
