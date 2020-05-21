@@ -1,4 +1,4 @@
-# CHIPKIT: Tutorial on Agile Research Test Chips @ ISCA2020
+# CHIPKIT: Second Tutorial on Agile Research Test Chips @ ISCA2020
 
 ![Harvard Chip Gallery](./images/Chip_Gallery.png)
 
@@ -18,9 +18,26 @@ This tutorial sets out to present a clear and straightforward template for a mod
 
 ## Open Source Code
 
-[CHIPKIT material repository](https://github.com/whatmough/CHIPKIT)
+[CHIPKIT Github](https://github.com/whatmough/CHIPKIT)
 
-## Outline
+## Companion Paper
+
+[CHIPKIT Paper (arxiv)](https://arxiv.org/abs/2001.04504)
+[CHIPKIT Paper (Xplore)](https://ieeexplore.ieee.org/document/9096507)
+
+'''
+@ARTICLE{chipkit_micro2020,
+  author={P. {Whatmough} and M. {Donato} and G. {Ko} and S. K. {Lee} and D. {Brooks} and G. {Wei}},
+  journal={IEEE Micro}, 
+  title={CHIPKIT: An agile, reusable open-source framework for rapid test chip development}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-1},}
+'''
+  
+
+## Tutorial Outline
 
 * Intro
 * Overview of Recent Harvard Test Chips
@@ -73,16 +90,19 @@ The waning effectiveness of Moore’s law has spurred the rise of application-dr
 
 **Arm Research Enablement** (TBD)
 
+
 ## References
-[1] [P. N. Whatmough, S. K. Lee, H. Lee, S. Rama, D. Brooks and G. Wei, in IEEE International Solid-State Circuits Conference, 2017](https://ieeexplore.ieee.org/abstract/document/7870351)
+[1] [P. N. Whatmough, M. Donato, G. Ko, S. K. Lee, D. Brooks, and G. Wei, in IEEE Micro, 2020](https://ieeexplore.ieee.org/document/9096507)
 
-[2] [P. N. Whatmough, S. K. Lee, D. Brooks and G. Wei, in IEEE Journal of Solid-State Circuits, 2018](https://ieeexplore.ieee.org/abstract/document/8387436)
+[2] [P. N. Whatmough, S. K. Lee, H. Lee, S. Rama, D. Brooks and G. Wei, in IEEE International Solid-State Circuits Conference, 2017](https://ieeexplore.ieee.org/abstract/document/7870351)
 
-[3] [S. K. Lee, P. N. Whatmough, N. Mulholland, P. Hansen, D. Brooks and G. Wei, in IEEE European Solid State Circuits Conference, 2018](https://ieeexplore.ieee.org/abstract/document/8494245)
+[3] [P. N. Whatmough, S. K. Lee, D. Brooks and G. Wei, in IEEE Journal of Solid-State Circuits, 2018](https://ieeexplore.ieee.org/abstract/document/8387436)
 
-[4] [S. K. Lee, P. N. Whatmough, D. Brooks and G. Wei, in IEEE Journal of Solid-State Circuits, 2019](https://ieeexplore.ieee.org/abstract/document/8715387)
+[4] [S. K. Lee, P. N. Whatmough, N. Mulholland, P. Hansen, D. Brooks and G. Wei, in IEEE European Solid State Circuits Conference, 2018](https://ieeexplore.ieee.org/abstract/document/8494245)
 
-[5] [P. N. Whatmough, S. K. Lee, M. Donato, H.-C. Hsueh, S. L. Xi, U. Gupta, L. Pentecost, G. Ko, D. Brooks and G.-Y. Wei, in Symposium on VLSI Circuits, 2019](https://ieeexplore.ieee.org/document/8778002)
+[5] [S. K. Lee, P. N. Whatmough, D. Brooks and G. Wei, in IEEE Journal of Solid-State Circuits, 2019](https://ieeexplore.ieee.org/abstract/document/8715387)
+
+[6] [P. N. Whatmough, S. K. Lee, M. Donato, H.-C. Hsueh, S. L. Xi, U. Gupta, L. Pentecost, G. Ko, D. Brooks and G.-Y. Wei, in Symposium on VLSI Circuits, 2019](https://ieeexplore.ieee.org/document/8778002)
 
 
 # Organizers and Affiliations
