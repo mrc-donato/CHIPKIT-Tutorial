@@ -1,4 +1,4 @@
-# CHIPKIT: Second Tutorial on Agile Research Test Chips @ ISCA2020
+# CHIPKIT: 2nd Tutorial on Agile Research Test Chips @ ISCA2020
 
 ![Harvard Chip Gallery](./images/Chip_Gallery.png)
 
