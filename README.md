@@ -22,9 +22,9 @@ Research test chips are the ultimate experiment to demonstrate the true value of
 
 This tutorial sets out to present a clear and straightforward template for a modern design flow for rapid, agile, and successful tape out of research test chips. We describe a front-to-back design example, drawing on many generations of test chips (shown in the illustration below) following a consistent design approach [1], [2], [3], [4], [5].  To help researchers start up their own SoC designs, the content of this tutorial is supported with the release of our **CHIPKIT** project, which provides a comprehensive set of open source resources for the design and implementation of research tapeouts. The project includes a sample SoC design which leverages this design methodology for demonstrating novel specialized hardware architectures, using the **CHIPKIT** infrastructure.
 
-## Open Source Project [Github](https://github.com/whatmough/CHIPKIT)
+### Open Source Project [Github](https://github.com/whatmough/CHIPKIT)
 
-## Companion Paper [(IEEEXplore)](https://ieeexplore.ieee.org/document/9096507) [(Arxiv)](https://arxiv.org/abs/2001.04504) 
+### Companion Paper [(IEEEXplore)](https://ieeexplore.ieee.org/document/9096507) [(Arxiv)](https://arxiv.org/abs/2001.04504) 
 
 
 ## Tutorial Outline
