@@ -39,7 +39,7 @@ This tutorial sets out to present a clear and straightforward template for a mod
 * Physical Design
 * Bring up and Testing
 
-### Part 2: Invited Talks on Agile Chip Design
+### Part 2: Invited Talks on Agile Chip Design from the architecture community
 
 * PyMTL3: A Python Framework for Open-Source Hardware Modeling, Generation, Simulation, and Verification (Christopher Batten, _Cornell University_)
 * OpenROAD: An open-source RTL-to-GDS tool with advanced-node capability (Andrew Kahng, _UCSD_)
