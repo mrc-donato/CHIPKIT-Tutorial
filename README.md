@@ -46,6 +46,7 @@ This tutorial sets out to present a clear and straightforward template for a mod
 * **Predictable Accelerator Design** (Adrian Sampson, _Cornell University_) 
 * **Closing the algorithm/hardware design and verification loop with speed via high-level synthesis** (Thierry Tambe, _Harvard University_)
 * **Arm Academic Enablement Programs** (Shuojin Hang _Arm Education and Research_)
+    
     At Arm, we value academic-industry collaboration as a driving factor of our ever-evolving industry. As a result, we endeavour to lower the barriers for researchers and educators to access and harness our technologies. In this session, I will talk about the Education and Research Enablement Kits that are serving universities and institutions worldwide. I will also explain how academics can access a plethora Arm IPs for research and education purposes.
 
 
