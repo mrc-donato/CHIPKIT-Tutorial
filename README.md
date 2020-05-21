@@ -29,6 +29,8 @@ This tutorial sets out to present a clear and straightforward template for a mod
 
 ## Tutorial Outline
 
+### Part 1: CHIPKIT: An agile, reusable open-source framework for rapid test chip development
+
 * Intro
 * Overview of Recent Harvard Test Chips
 * M-Class SoCs
@@ -36,12 +38,14 @@ This tutorial sets out to present a clear and straightforward template for a mod
 * Custom IP Development
 * Physical Design
 * Bring up and Testing
-* The agile chip design landscape
-    * PyMTL3: A Python Framework for Open-Source Hardware Modeling, Generation, Simulation, and Verification (Christopher Batten, _Cornell University_)
-    * OpenROAD: An open-source RTL-to-GDS tool with advanced-node capability (Andrew Kahng, _UCSD_)
-    * Predictable Accelerator Design (Adrian Sampson, _Cornell University_) 
-    * Closing the algorithm/hardware design and verification loop with speed via high-level synthesis (Theirry Tambe, _Harvard University_)
-    * Arm Research Enablement
+
+### Part 2: Invited Talks on Agile Chip Design
+
+* PyMTL3: A Python Framework for Open-Source Hardware Modeling, Generation, Simulation, and Verification (Christopher Batten, _Cornell University_)
+* OpenROAD: An open-source RTL-to-GDS tool with advanced-node capability (Andrew Kahng, _UCSD_)
+* Predictable Accelerator Design (Adrian Sampson, _Cornell University_) 
+* Closing the algorithm/hardware design and verification loop with speed via high-level synthesis (Theirry Tambe, _Harvard University_)
+* Arm Research Enablement (TBD)
 
 
 ### Invited talks abstracts
