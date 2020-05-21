@@ -11,9 +11,7 @@
 <p style="text-align: center;"> <b>CHIPKIT tutorial @ ISCA2020, May 31st</b></p>
 The tutorial is going to be offered in a virtual format (details TBD).
 
-Date: Saturday, May 30th
-
-Location: Online
+[CHIPKIT @ ISCA2020](https://www.iscaconf.org/isca2020/program/workshops.html#chipkit)
 
 [Register for tutorial](https://www.iscaconf.org/isca2020/attend/register.html)
 
