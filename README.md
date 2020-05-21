@@ -1,4 +1,5 @@
 # CHIPKIT: 2nd Tutorial on Agile Research Test Chips @ ISCA2020
+Paul Whatmough, Marco Donato, Glenn Ko, Sae-Kyu Lee, David Brooks, and Gu-Yeon Wei
 
 ![Harvard Chip Gallery](./images/Chip_Gallery.png)
 
@@ -7,33 +8,16 @@
 <p style="text-align: center;"> <b>CHIPKIT tutorial @ ISCA2020, May 31st</b></p>
 The tutorial is going to be offered in a virtual format (details TBD).
 
-## Previous tutorials
-[MICRO 2019](https://www.microarch.org/micro52/program/workshops.html#chipkit)
-
 ## Overview
 
 Research test chips are the ultimate experiment to demonstrate the true value of novel computer architecture innovations. They are always very highly regarded by reviewers as the most honest evaluation of a new hardware proposal.  In addition, there is a huge pedagogical value in taping out test chips, as it offers insight on the impact of real hardware and microarchitecture details that are critical in guiding higher level architecture decisions and trade offs.  Nonetheless, despite all this, taping out test chips remains a challenge for those who are following this path for the first time.  Traditionally, research chips have been time consuming to design, fabricate and test, and often error prone - potentially requiring re-spins to fix problems.
 
 This tutorial sets out to present a clear and straightforward template for a modern design flow for rapid, agile, and successful tape out of research test chips. We describe a front-to-back design example, drawing on many generations of test chips (shown in the illustration below) following a consistent design approach [1], [2], [3], [4], [5].  To help researchers start up their own SoC designs, the content of this tutorial is supported with the release of our **CHIPKIT** project, which provides a comprehensive set of open source resources for the design and implementation of research tapeouts. The project includes a sample SoC design which leverages this design methodology for demonstrating novel specialized hardware architectures, using the **CHIPKIT** infrastructure.
 
-## Open Source Code [CHIPKIT Github](https://github.com/whatmough/CHIPKIT)
+## Open Source Project [Github](https://github.com/whatmough/CHIPKIT)
 
-## Companion Paper
+## Companion Paper [(IEEEXplore)](https://ieeexplore.ieee.org/document/9096507) [(Arxiv)](https://arxiv.org/abs/2001.04504) 
 
-[CHIPKIT Paper (Arxiv)](https://arxiv.org/abs/2001.04504)
-[CHIPKIT Paper (IEEEXplore)](https://ieeexplore.ieee.org/document/9096507)
-
-```
-@ARTICLE{chipkit_micro2020,
-  author={P. {Whatmough} and M. {Donato} and G. {Ko} and S. K. {Lee} and D. {Brooks} and G. {Wei}},
-  journal={IEEE Micro}, 
-  title={CHIPKIT: An agile, reusable open-source framework for rapid test chip development}, 
-  year={2020},
-  volume={},
-  number={},
-  pages={1-1},}
-```
-  
 
 ## Tutorial Outline
 
@@ -112,3 +96,24 @@ The waning effectiveness of Moore’s law has spurred the rise of application-dr
 <p><img src="images/DB.png" width="120" align="left" border="50px"> <b>David Brooks, Harvard University</b>: David Brooks is the Haley Family Professor of Computer Science in the School of Engineering and Applied Sciences at Harvard University. Prior to joining Harvard, he was a research staff member at IBM T.J. Watson Research Center. Prof. Brooks received his BS in Electrical Engineering at the University of Southern California and MA and PhD degrees in Electrical Engineering at Princeton University. His research interests include resilient and power-efficient computer hardware and software design for high-performance and embedded systems. Prof. Brooks is a Fellow of the IEEE and has received several honors and awards including the ACM Maurice Wilkes Award and ISCA Influential Paper Award.</p>
 <p><img src="images/GYW.png" width="120" align="left" border="50px"> <b>Gu-Yeon Wei, Harvard University</b>: Gu-Yeon Wei is Robert and Suzanne Case Professor of Electrical Engineering and Computer Science in the Paulson School of Engineering and Applied Sciences (SEAS) at Harvard University. He received his BS, MS, and PhD degrees in Electrical Engineering from Stanford University. His research interests span multiple layers of a computing system: mixed-signal integrated circuits, computer architecture, and design tools for efficient hardware. His research efforts focus on identifying synergistic opportunities across these layers to develop energy-efficient solutions for a broad range of systems from flapping-wing microrobots to machine learning hardware for IoT devices to large-scale servers.</p>
 
+
+## Previous Tutorials
+
+[MICRO 2019](https://www.microarch.org/micro52/program/workshops.html#chipkit)
+
+
+## BibTeX
+
+If you find this tutorial material useful for your research, please consider citing our companion paper:
+
+```
+@ARTICLE{chipkit_micro2020,
+  author={P. {Whatmough} and M. {Donato} and G. {Ko} and S. K. {Lee} and D. {Brooks} and G. {Wei}},
+  journal={IEEE Micro}, 
+  title={CHIPKIT: An agile, reusable open-source framework for rapid test chip development}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-1},}
+```
+  
