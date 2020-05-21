@@ -8,7 +8,7 @@
 The tutorial is going to be offered in a virtual format (details TBD).
 
 ## Previous tutorials
-[MICRO 2019](https://www.microarch.org/micro52/program/workshops.html)
+[MICRO 2019](https://www.microarch.org/micro52/program/workshops.html#chipkit)
 
 ## Overview
 
@@ -22,10 +22,10 @@ This tutorial sets out to present a clear and straightforward template for a mod
 
 ## Companion Paper
 
-[CHIPKIT Paper (arxiv)](https://arxiv.org/abs/2001.04504)
-[CHIPKIT Paper (Xplore)](https://ieeexplore.ieee.org/document/9096507)
+[CHIPKIT Paper (Arxiv)](https://arxiv.org/abs/2001.04504)
+[CHIPKIT Paper (IEEEXplore)](https://ieeexplore.ieee.org/document/9096507)
 
-'''
+```
 @ARTICLE{chipkit_micro2020,
   author={P. {Whatmough} and M. {Donato} and G. {Ko} and S. K. {Lee} and D. {Brooks} and G. {Wei}},
   journal={IEEE Micro}, 
@@ -34,7 +34,7 @@ This tutorial sets out to present a clear and straightforward template for a mod
   volume={},
   number={},
   pages={1-1},}
-'''
+```
   
 
 ## Tutorial Outline
