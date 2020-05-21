@@ -31,20 +31,20 @@ This tutorial sets out to present a clear and straightforward template for a mod
 
 ### Part 1: CHIPKIT: An agile, reusable open-source framework for rapid test chip development
 
-* Intro
-* Overview of Recent Harvard Test Chips
-* M-Class SoCs
-* A-Class SoCs
-* Custom IP Development
-* Physical Design
-* Bring up and Testing
+* **Introduction** (Paul Whatmough)
+* **Overview of Recent Harvard Test Chips** (Glenn Ko)
+* **M-Class SoCs** (Paul Whatmough)
+* **A-Class SoCs** (Marco Donato)
+* **Custom IP Development** (Paul Whatmough)
+* **Physical Design** (Glenn Ko)
+* **Bring up and Testing** (Marco Donato)
 
-### Part 2: Invited Talks on Agile Chip Design from the architecture community
+### Part 2: Invited talks on agile chip design from the architecture community
 
-* PyMTL3: A Python Framework for Open-Source Hardware Modeling, Generation, Simulation, and Verification (Christopher Batten, _Cornell University_)
-* OpenROAD: An open-source RTL-to-GDS tool with advanced-node capability (Andrew Kahng, _UCSD_)
-* Predictable Accelerator Design (Adrian Sampson, _Cornell University_) 
-* Closing the algorithm/hardware design and verification loop with speed via high-level synthesis (Theirry Tambe, _Harvard University_)
+* **PyMTL3: A Python Framework for Open-Source Hardware Modeling, Generation, Simulation, and Verification** (Christopher Batten, _Cornell University_)
+* **OpenROAD: An open-source RTL-to-GDS tool with advanced-node capability** (Andrew Kahng, _UCSD_)
+* **Predictable Accelerator Design** (Adrian Sampson, _Cornell University_) 
+* **Closing the algorithm/hardware design and verification loop with speed via high-level synthesis** (Theirry Tambe, _Harvard University_)
 * Arm Research Enablement (TBD)
 
 
@@ -111,7 +111,7 @@ The waning effectiveness of Moore’s law has spurred the rise of application-dr
 
 ## Previous Tutorials
 
-[MICRO 2019](https://www.microarch.org/micro52/program/workshops.html#chipkit)
+[CHIPKIT @ MICRO 2019](https://www.microarch.org/micro52/program/workshops.html#chipkit)
 
 
 ## BibTeX
