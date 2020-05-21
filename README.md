@@ -22,14 +22,14 @@ Research test chips are the ultimate experiment to demonstrate the true value of
 
 This tutorial sets out to present a clear and straightforward template for a modern design flow for rapid, agile, and successful tape out of research test chips. We describe a front-to-back design example, drawing on many generations of test chips (shown in the illustration below) following a consistent design approach [1], [2], [3], [4], [5].  To help researchers start up their own SoC designs, the content of this tutorial is supported with the release of our **CHIPKIT** project, which provides a comprehensive set of open source resources for the design and implementation of research tapeouts. The project includes a sample SoC design which leverages this design methodology for demonstrating novel specialized hardware architectures, using the **CHIPKIT** infrastructure.
 
-### Open Source Project [Github](https://github.com/whatmough/CHIPKIT)
+#### Open Source Project [Github](https://github.com/whatmough/CHIPKIT)
 
-### Companion Paper [(IEEEXplore)](https://ieeexplore.ieee.org/document/9096507) [(Arxiv)](https://arxiv.org/abs/2001.04504) 
+#### Companion Paper [(IEEEXplore)](https://ieeexplore.ieee.org/document/9096507) [(Arxiv)](https://arxiv.org/abs/2001.04504) 
 
 
 ## Tutorial Outline
 
-### Part 1: CHIPKIT: An agile, reusable open-source framework for rapid test chip development
+### **Part 1**: CHIPKIT: An agile, reusable open-source framework for rapid test chip development
 
 * **Introduction** (Paul Whatmough)
 * **Overview of Recent Harvard Test Chips** (Glenn Ko)
@@ -39,14 +39,17 @@ This tutorial sets out to present a clear and straightforward template for a mod
 * **Physical Design** (Glenn Ko)
 * **Bring up and Testing** (Marco Donato)
 
-### Part 2: Invited talks on agile chip design from the architecture community
+### **Part 2**: Invited talks on agile chip design from the architecture community
 
 * **PyMTL3: A Python Framework for Open-Source Hardware Modeling, Generation, Simulation, and Verification** (Christopher Batten, _Cornell University_)
+    * PyMTL3 is a new Python-based framework for hardware modeling, generation, simulation, and verification well suited to implementing computer architecture test chips. PyMTL2 was developed several years ago and has been used extensively in research, teaching, and prototyping. PyMTL3 retains some of the best features of PyMTL2 including: support for highly
+paramterized accelerator generators; a unified framework for functional-, cycle-, and register-transfer level modeling; pure-Python-based simulation; elegant translation of PyMTL RTL to Verilog RTL; and first-class support for co-simulation of PyMTL and Verilog models through Python/Verilator integration. PyMTL3 additionally includes a completely new execution model based on hierarchical static scheduling of concurrent sequential update blocks; improved simulation performance; first-class
+support for method-based interfaces; PyMTL passes for analyzing, instrumenting, and transforming PyMTL models; and improved verification methodologies. This talk will introduce the PyMTL3 framework and walk-through a hands-on demo illustrating some of the more basic features for register-transfer-level modeling with PyMTL3.
+
 * **OpenROAD: An open-source RTL-to-GDS tool with advanced-node capability** (Andrew Kahng, _UCSD_)
 * **Predictable Accelerator Design** (Adrian Sampson, _Cornell University_) 
 * **Closing the algorithm/hardware design and verification loop with speed via high-level synthesis** (Thierry Tambe, _Harvard University_)
-* **Arm Academic Enablement Programs** (Shuojin Hang _Arm Education and Research_)
-    
+* **Arm Academic Enablement Programs** (Shuojin Hang _Arm Education and Research_)  
     * At Arm, we value academic-industry collaboration as a driving factor of our ever-evolving industry. As a result, we endeavour to lower the barriers for researchers and educators to access and harness our technologies. In this session, I will talk about the Education and Research Enablement Kits that are serving universities and institutions worldwide. I will also explain how academics can access a plethora Arm IPs for research and education purposes.
 
 
