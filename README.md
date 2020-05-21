@@ -1,6 +1,6 @@
 # CHIPKIT: 2nd Tutorial on Agile Research Test Chips @ ISCA2020
 
-Paul Whatmough (Arm Research/Harvard), Marco Donato (Harvard), Glenn Ko (Harvard), Sae-Kyu Lee (IBM Research), David Brooks (Harvard), and Gu-Yeon Wei (Harvard)
+**Paul Whatmough** (Arm Research/Harvard), **Marco Donato** (Harvard), **Glenn Ko** (Harvard), **Sae-Kyu Lee** (IBM Research), **David Brooks** (Harvard), and **Gu-Yeon Wei** (Harvard)
 
 ##
 
