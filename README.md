@@ -45,9 +45,13 @@ This tutorial sets out to present a clear and straightforward template for a mod
 
 * **Introduction** (Paul Whatmough)
 <details>
-  <summary>See Abstract<\summary>
-    
-    * blah
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
 </details>
     
 * **Overview of Recent Harvard Test Chips** (Glenn Ko)
