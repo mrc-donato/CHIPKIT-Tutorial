@@ -46,6 +46,7 @@ This tutorial sets out to present a clear and straightforward template for a mod
 * **Introduction** (Paul Whatmough)
 <details>
   <summary>See Abstract<\summary>
+    
     * blah
 </details>
     
