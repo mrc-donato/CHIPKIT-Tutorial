@@ -40,7 +40,7 @@ This tutorial sets out to present a clear and straightforward template for a mod
 ### **Part 1**: CHIPKIT: An agile, reusable open-source framework for rapid test chip development
 
 <details><summary>
-  <b>"Introduction"</b> (Paul Whatmough)
+  <b>"Introduction to CHIPKIT Tutorial"</b>, Paul Whatmough
   </summary>
   
   Abstract (TBD)
@@ -48,7 +48,7 @@ This tutorial sets out to present a clear and straightforward template for a mod
     
     
 <details><summary>
-  <b>Overview of Recent Harvard Test Chips</b> (Glenn Ko)
+  <b>"Overview of Recent Harvard Test Chips"</b>, Glenn Ko
   </summary>
   
   Abstract (TBD)
@@ -56,7 +56,7 @@ This tutorial sets out to present a clear and straightforward template for a mod
 
 
 <details><summary>
-  <b>M-Class SoCs</b> (Paul Whatmough)
+  <b>"M-Class SoCs"</b>, Paul Whatmough
   </summary>
   
   Abstract (TBD)
@@ -64,7 +64,7 @@ This tutorial sets out to present a clear and straightforward template for a mod
 
 
 <details><summary>
-  <b>A-Class SoCs</b> (Marco Donato)
+  <b>"A-Class SoCs"</b>, Marco Donato
   </summary>
   
   Abstract (TBD)
@@ -72,7 +72,7 @@ This tutorial sets out to present a clear and straightforward template for a mod
 
 
 <details><summary>
-  <b>Custom IP Development</b> (Paul Whatmough)
+  <b>"Custom IP Development"</b>, Paul Whatmough
   </summary>
   
   Abstract (TBD)
@@ -80,7 +80,7 @@ This tutorial sets out to present a clear and straightforward template for a mod
   
   
 <details><summary>
-  <b>Physical Design</b> (Glenn Ko)
+  <b>"Physical Design"</b>, Glenn Ko
   </summary>
   
   Abstract (TBD)
@@ -89,7 +89,7 @@ This tutorial sets out to present a clear and straightforward template for a mod
   
   
 <details><summary>
-  <b>Bring up and Testing</b> (Marco Donato)
+  <b>"Bring up and Testing"</b>, Marco Donato
   </summary>
   
   Abstract (TBD)
@@ -99,14 +99,14 @@ This tutorial sets out to present a clear and straightforward template for a mod
 ### **Part 2**: Invited talks on agile chip design from the architecture community
 
 <details><summary>
-  <b>OpenROAD: An open-source RTL-to-GDS tool with advanced-node capability</b> (Andrew Kahng, UCSD)
+  <b>"OpenROAD: An open-source RTL-to-GDS tool with advanced-node capability"</b>, Andrew Kahng (UCSD)
   </summary>
   
   Open-source EDA boosts the lifecycle and robustness of academic EDA research while providing a bridge to industrial design practice. For architects and IC designers, open-source tool chains can enable early prototyping and design space exploration, and can help bring ideas to manufacturing-ready layout with reduced schedule and cost. We will give an overview and demo of the forthcoming v1.0 release (July 2020) of RTL-to-GDS automation from the OpenROAD project https://theopenroadproject.org/ .   The talk will also note relevant aspects of tool architecture, database, software engineering, and potential synergies with future hardware and architecture innovation.
 </details>
     
 <details><summary>
-  <b>PyMTL3: A Python Framework for Open-Source Hardware Modeling, Generation, Simulation, and Verification</b> (Christopher Batten, Cornell University)
+  <b>"PyMTL3: A Python Framework for Open-Source Hardware Modeling, Generation, Simulation, and Verification"</b>, Christopher Batten (Cornell)
   </summary>
   
   PyMTL3 is a new Python-based framework for hardware modeling, generation, simulation, and verification well suited to implementing computer architecture test chips. PyMTL2 was developed several years ago and has been used extensively in research, teaching, and prototyping. PyMTL3 retains some of the best features of PyMTL2 including: support for highly
@@ -115,14 +115,15 @@ support for method-based interfaces; PyMTL passes for analyzing, instrumenting, 
 </details>
     
 <details><summary>
-  <b>Predictable Accelerator Design</b> (Adrian Sampson, Cornell University)
+  <b>"Predictable Accelerator Design"</b>, Adrian Sampson (Cornell)
   </summary>
   
   We need to make it easier to design custom accelerators, especially for reconfigurable hardware (i.e., FPGAs). RTL design is too low level for most domain experts. The best current alternative is C-based high-level synthesis (HLS). The thesis of this talk is that far better programming models than traditional HLS are possible. Repurposing a legacy software language for hardware design inevitably introduces a semantic chasm and concomitant usability pitfalls; we demonstrate empirically that HLS can be *unpredictable* in the sense that small, innocuous-seeming source code changes can lead to large, counter-intuitive swings in the area and latency of the generated hardware. We are working on a programming language, Dahlia, that uses a type system to restrict accelerator designs to a subset with predictable performance. Based on Dahlia, we are designing a compiler infrastructure to bring predictable hardware generation to any DSL.
 </details>
     
 <details><summary>
-  <b>Closing the algorithm/hardware design and verification loop with speed via high-level synthesis</b> (Thierry Tambe, Harvard University)
+  
+  <b>"Closing the algorithm/hardware design and verification loop with speed via high-level synthesis"</b>, Thierry Tambe (Harvard)
   </summary>
   
   The waning effectiveness of Moore’s law has spurred the rise of application-driven architectures as CMOS scaling no longer  provides the power and performance fruits it once did. In order to keep delivering energy efficiency gains, specialized SoCs are exhibiting skyrocketing design complexity with development efforts increasing each generation as a result. In this talk, we will shed light on an agile algorithm-hardware co-design and co-verification methodology powered by high-level synthesis (HLS), which enabled us to reduce front-end VLSI design efforts by orders of magnitude. We will provide some background and share details on best known practices, pitfalls to avoid, and overall learnings from a high-productivity digital VLSI flow which leverages HLS in order to efficiently close the loop between the software modeling and the frontend hardware implementation.
@@ -130,51 +131,34 @@ support for method-based interfaces; PyMTL passes for analyzing, instrumenting, 
     
     
 <details><summary>
-  <b>Arm Academic Enablement Programs</b> (Shuojin Hang _Arm Education and Research_)
+  <b>"Arm Academic Enablement Programs"</b>, Shuojin Hang (Arm)
   </summary>
   
   At Arm, we value academic-industry collaboration as a driving factor of our ever-evolving industry. As a result, we endeavour to lower the barriers for researchers and educators to access and harness our technologies. In this session, I will talk about the Education and Research Enablement Kits that are serving universities and institutions worldwide. I will also explain how academics can access a plethora of Arm IPs for research and education purposes.
 </details>
     
+
+## Previous Tutorials
+
+[CHIPKIT @ MICRO 2019](https://www.microarch.org/micro52/program/workshops.html#chipkit)
+
+
+## BibTeX
+
+If you find this tutorial material useful for your research, please consider citing our companion paper:
+
+```
+@ARTICLE{chipkit_micro2020,
+  author={P. {Whatmough} and M. {Donato} and G. {Ko} and S. K. {Lee} and D. {Brooks} and G. {Wei}},
+  journal={IEEE Micro}, 
+  title={CHIPKIT: An agile, reusable open-source framework for rapid test chip development}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-1},}
+```
+  
                     
-
-
-### Invited talks abstracts
-
-**PyMTL3: A Python Framework for Open-Source Hardware Modeling, Generation, Simulation, and Verification** (Christopher Batten, _Cornell University_)
-
-PyMTL3 is a new Python-based framework for hardware modeling, generation,
-simulation, and verification well suited to implementing computer
-architecture test chips. PyMTL2 was developed several years ago and has
-been used extensively in research, teaching, and prototyping. PyMTL3
-retains some of the best features of PyMTL2 including: support for highly
-paramterized accelerator generators; a unified framework for functional-,
-cycle-, and register-transfer level modeling; pure-Python-based
-simulation; elegant translation of PyMTL RTL to Verilog RTL; and
-first-class support for co-simulation of PyMTL and Verilog models through
-Python/Verilator integration. PyMTL3 additionally includes a completely
-new execution model based on hierarchical static scheduling of concurrent
-sequential update blocks; improved simulation performance; first-class
-support for method-based interfaces; PyMTL passes for analyzing,
-instrumenting, and transforming PyMTL models; and improved verification
-methodologies. This talk will introduce the PyMTL3 framework and
-walk-through a hands-on demo illustrating some of the more basic features
-for register-transfer-level modeling with PyMTL3.
-
-**OpenROAD: An open-source RTL-to-GDS tool with advanced-node capability** (Andrew Kahng, _UCSD_)
-
-Open-source EDA boosts the lifecycle and robustness of academic EDA research while providing a bridge to industrial design practice. For architects and IC designers, open-source tool chains can enable early prototyping and design space exploration, and can help bring ideas to manufacturing-ready layout with reduced schedule and cost. We will give an overview and demo of the forthcoming v1.0 release (July 2020) of RTL-to-GDS automation from the OpenROAD project https://theopenroadproject.org/ .   The talk will also note relevant aspects of tool architecture, database, software engineering, and potential synergies with future hardware and architecture innovation.
-
-**Predictable Accelerator Design** (Adrian Sampson, _Cornell University_) 
-
-We need to make it easier to design custom accelerators, especially for reconfigurable hardware (i.e., FPGAs). RTL design is too low level for most domain experts. The best current alternative is C-based high-level synthesis (HLS). The thesis of this talk is that far better programming models than traditional HLS are possible. Repurposing a legacy software language for hardware design inevitably introduces a semantic chasm and concomitant usability pitfalls; we demonstrate empirically that HLS can be *unpredictable* in the sense that small, innocuous-seeming source code changes can lead to large, counter-intuitive swings in the area and latency of the generated hardware. We are working on a programming language, Dahlia, that uses a type system to restrict accelerator designs to a subset with predictable performance. Based on Dahlia, we are designing a compiler infrastructure to bring predictable hardware generation to any DSL.
-
-**Closing the algorithm/hardware design and verification loop with speed via high-level synthesis** (Theirry Tambe, _Harvard University_)
-
-The waning effectiveness of Moore’s law has spurred the rise of application-driven architectures as CMOS scaling no longer  provides the power and performance fruits it once did. In order to keep delivering energy efficiency gains, specialized SoCs are exhibiting skyrocketing design complexity with development efforts increasing each generation as a result. In this talk, we will shed light on an agile algorithm-hardware co-design and co-verification methodology powered by high-level synthesis (HLS), which enabled us to reduce front-end VLSI design efforts by orders of magnitude. We will provide some background and share details on best known practices, pitfalls to avoid, and overall learnings from a high-productivity digital VLSI flow which leverages HLS in order to efficiently close the loop between the software modeling and the frontend hardware implementation.
-
-**Arm Research Enablement** (TBD)
-
 
 ## References
 [1] [P. N. Whatmough, M. Donato, G. Ko, S. K. Lee, D. Brooks, and G. Wei, in IEEE Micro, 2020](https://ieeexplore.ieee.org/document/9096507)
@@ -199,24 +183,3 @@ The waning effectiveness of Moore’s law has spurred the rise of application-dr
 <p><img src="images/DB.png" width="120" align="left" border="50px"> <b>David Brooks, Harvard University</b>: David Brooks is the Haley Family Professor of Computer Science in the School of Engineering and Applied Sciences at Harvard University. Prior to joining Harvard, he was a research staff member at IBM T.J. Watson Research Center. Prof. Brooks received his BS in Electrical Engineering at the University of Southern California and MA and PhD degrees in Electrical Engineering at Princeton University. His research interests include resilient and power-efficient computer hardware and software design for high-performance and embedded systems. Prof. Brooks is a Fellow of the IEEE and has received several honors and awards including the ACM Maurice Wilkes Award and ISCA Influential Paper Award.</p>
 <p><img src="images/GYW.png" width="120" align="left" border="50px"> <b>Gu-Yeon Wei, Harvard University</b>: Gu-Yeon Wei is Robert and Suzanne Case Professor of Electrical Engineering and Computer Science in the Paulson School of Engineering and Applied Sciences (SEAS) at Harvard University. He received his BS, MS, and PhD degrees in Electrical Engineering from Stanford University. His research interests span multiple layers of a computing system: mixed-signal integrated circuits, computer architecture, and design tools for efficient hardware. His research efforts focus on identifying synergistic opportunities across these layers to develop energy-efficient solutions for a broad range of systems from flapping-wing microrobots to machine learning hardware for IoT devices to large-scale servers.</p>
 
-
-## Previous Tutorials
-
-[CHIPKIT @ MICRO 2019](https://www.microarch.org/micro52/program/workshops.html#chipkit)
-
-
-## BibTeX
-
-If you find this tutorial material useful for your research, please consider citing our companion paper:
-
-```
-@ARTICLE{chipkit_micro2020,
-  author={P. {Whatmough} and M. {Donato} and G. {Ko} and S. K. {Lee} and D. {Brooks} and G. {Wei}},
-  journal={IEEE Micro}, 
-  title={CHIPKIT: An agile, reusable open-source framework for rapid test chip development}, 
-  year={2020},
-  volume={},
-  number={},
-  pages={1-1},}
-```
-  
