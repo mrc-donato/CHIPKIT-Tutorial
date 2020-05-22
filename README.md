@@ -41,11 +41,11 @@ This tutorial sets out to present a clear and straightforward template for a mod
 
 * **Introduction** (Paul Whatmough)
 
-    * <details>
-      <summary>Click to expand!</summary>
+<details>
+<summary>**Introduction** (Paul Whatmough)</summary>
   
-      some text...
-      </details>
+Abstract (TBD)
+</details>
     
 * **Overview of Recent Harvard Test Chips** (Glenn Ko)
 * **M-Class SoCs** (Paul Whatmough)
