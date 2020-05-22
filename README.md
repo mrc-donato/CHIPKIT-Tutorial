@@ -96,17 +96,44 @@ This tutorial sets out to present a clear and straightforward template for a mod
 </details>
 
 
-
-* **Overview of Recent Harvard Test Chips** (Glenn Ko)
-* **M-Class SoCs** (Paul Whatmough)
-* **A-Class SoCs** (Marco Donato)
-* **Custom IP Development** (Paul Whatmough)
-* **Physical Design** (Glenn Ko)
-* **Bring up and Testing** (Marco Donato)
-
 ### **Part 2**: Invited talks on agile chip design from the architecture community
 
-
+<details><summary>
+  <b>OpenROAD: An open-source RTL-to-GDS tool with advanced-node capability</b> (Andrew Kahng, _UCSD_)
+  </summary>
+  
+  Open-source EDA boosts the lifecycle and robustness of academic EDA research while providing a bridge to industrial design practice. For architects and IC designers, open-source tool chains can enable early prototyping and design space exploration, and can help bring ideas to manufacturing-ready layout with reduced schedule and cost. We will give an overview and demo of the forthcoming v1.0 release (July 2020) of RTL-to-GDS automation from the OpenROAD project https://theopenroadproject.org/ .   The talk will also note relevant aspects of tool architecture, database, software engineering, and potential synergies with future hardware and architecture innovation.
+</details>
+    
+<details><summary>
+  <b>Introduction</b> (Paul Whatmough)
+  </summary>
+  
+  Abstract (TBD)
+</details>
+    
+<details><summary>
+  <b>Introduction</b> (Paul Whatmough)
+  </summary>
+  
+  Abstract (TBD)
+</details>
+    
+<details><summary>
+  <b>Introduction</b> (Paul Whatmough)
+  </summary>
+  
+  Abstract (TBD)
+</details>
+    
+<details><summary>
+  <b>Introduction</b> (Paul Whatmough)
+  </summary>
+  
+  Abstract (TBD)
+</details>
+    
+                    
 * **OpenROAD: An open-source RTL-to-GDS tool with advanced-node capability** (Andrew Kahng, _UCSD_)
     * Open-source EDA boosts the lifecycle and robustness of academic EDA research while providing a bridge to industrial design practice. For architects and IC designers, open-source tool chains can enable early prototyping and design space exploration, and can help bring ideas to manufacturing-ready layout with reduced schedule and cost. We will give an overview and demo of the forthcoming v1.0 release (July 2020) of RTL-to-GDS automation from the OpenROAD project https://theopenroadproject.org/ .   The talk will also note relevant aspects of tool architecture, database, software engineering, and potential synergies with future hardware and architecture innovation.
     
