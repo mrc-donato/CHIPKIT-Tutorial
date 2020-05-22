@@ -8,12 +8,11 @@
 
 ## Updates
 
-<p style="text-align: center;"> <b>CHIPKIT tutorial @ ISCA2020, May 31st</b></p>
-The tutorial is going to be offered in a virtual format (details TBD).
-
 [CHIPKIT @ ISCA2020](https://www.iscaconf.org/isca2020/program/workshops.html#chipkit)
 
 [Register for tutorial](https://www.iscaconf.org/isca2020/attend/register.html)
+
+The tutorial is going to be offered in a virtual format (details TBD).
 
 
 ## Overview
@@ -26,13 +25,6 @@ This tutorial sets out to present a clear and straightforward template for a mod
 
 #### Companion Paper [\[IEEEXplore\]](https://ieeexplore.ieee.org/document/9096507) [\[Arxiv\]](https://arxiv.org/abs/2001.04504) 
 
-
-# A collapsible section with markdown
-<details>
-  <summary>Click to expand!</summary>
-  
-  some text...
-</details>
 
 
 ## Tutorial Outline
