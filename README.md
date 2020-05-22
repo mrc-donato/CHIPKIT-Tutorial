@@ -39,18 +39,64 @@ This tutorial sets out to present a clear and straightforward template for a mod
 
 ### **Part 1**: CHIPKIT: An agile, reusable open-source framework for rapid test chip development
 
-* **Introduction** (Paul Whatmough)
-    * <details><summary>Abstract</summary>
+<details><summary>
+  <b>Introduction</b> (Paul Whatmough)
+  </summary>
   
-Abstract (TBD)
-</details>
-
-
-<details><summary><b>Introduction<\b> (Paul Whatmough)</summary>
-  
-Abstract (TBD)
+  Abstract (TBD)
 </details>
     
+    
+<details><summary>
+  <b>Overview of Recent Harvard Test Chips</b> (Glenn Ko)
+  </summary>
+  
+  Abstract (TBD)
+</details>
+
+
+<details><summary>
+  <b>M-Class SoCs</b> (Paul Whatmough)
+  </summary>
+  
+  Abstract (TBD)
+</details>
+
+
+<details><summary>
+  <b>A-Class SoCs</b> (Marco Donato)
+  </summary>
+  
+  Abstract (TBD)
+</details>
+
+
+<details><summary>
+  <b>Custom IP Development</b> (Paul Whatmough)
+  </summary>
+  
+  Abstract (TBD)
+</details>
+  
+  
+<details><summary>
+  <b>Physical Design</b> (Glenn Ko)
+  </summary>
+  
+  Abstract (TBD)
+</details>
+  
+  
+  
+<details><summary>
+  <b>Bring up and Testing</b> (Marco Donato)
+  </summary>
+  
+  Abstract (TBD)
+</details>
+
+
+
 * **Overview of Recent Harvard Test Chips** (Glenn Ko)
 * **M-Class SoCs** (Paul Whatmough)
 * **A-Class SoCs** (Marco Donato)
