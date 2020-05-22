@@ -44,6 +44,9 @@ This tutorial sets out to present a clear and straightforward template for a mod
 ### **Part 1**: CHIPKIT: An agile, reusable open-source framework for rapid test chip development
 
 * **Introduction** (Paul Whatmough)
+<details><summary> See Abstract <\summary>
+    * blah
+  </details>
 * **Overview of Recent Harvard Test Chips** (Glenn Ko)
 * **M-Class SoCs** (Paul Whatmough)
 * **A-Class SoCs** (Marco Donato)
