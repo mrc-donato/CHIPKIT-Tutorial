@@ -27,6 +27,18 @@ This tutorial sets out to present a clear and straightforward template for a mod
 #### Companion Paper [\[IEEEXplore\]](https://ieeexplore.ieee.org/document/9096507) [\[Arxiv\]](https://arxiv.org/abs/2001.04504) 
 
 
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
+
 ## Tutorial Outline
 
 ### **Part 1**: CHIPKIT: An agile, reusable open-source framework for rapid test chip development
