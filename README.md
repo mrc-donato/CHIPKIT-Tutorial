@@ -40,7 +40,7 @@ This tutorial sets out to present a clear and straightforward template for a mod
 ### **Part 1**: CHIPKIT: An agile, reusable open-source framework for rapid test chip development
 
 <details><summary>
-  <b>Introduction</b> (Paul Whatmough)
+  <b>"Introduction"</b> (Paul Whatmough)
   </summary>
   
   Abstract (TBD)
