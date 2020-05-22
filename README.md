@@ -106,10 +106,12 @@ This tutorial sets out to present a clear and straightforward template for a mod
 </details>
     
 <details><summary>
-  <b>Introduction</b> (Paul Whatmough)
+  <b>PyMTL3: A Python Framework for Open-Source Hardware Modeling, Generation, Simulation, and Verification</b> (Christopher Batten, _Cornell University_)
   </summary>
   
-  Abstract (TBD)
+  PyMTL3 is a new Python-based framework for hardware modeling, generation, simulation, and verification well suited to implementing computer architecture test chips. PyMTL2 was developed several years ago and has been used extensively in research, teaching, and prototyping. PyMTL3 retains some of the best features of PyMTL2 including: support for highly
+paramterized accelerator generators; a unified framework for functional-, cycle-, and register-transfer level modeling; pure-Python-based simulation; elegant translation of PyMTL RTL to Verilog RTL; and first-class support for co-simulation of PyMTL and Verilog models through Python/Verilator integration. PyMTL3 additionally includes a completely new execution model based on hierarchical static scheduling of concurrent sequential update blocks; improved simulation performance; first-class
+support for method-based interfaces; PyMTL passes for analyzing, instrumenting, and transforming PyMTL models; and improved verification methodologies. This talk will introduce the PyMTL3 framework and walk-through a hands-on demo illustrating some of the more basic features for register-transfer-level modeling with PyMTL3.
 </details>
     
 <details><summary>
