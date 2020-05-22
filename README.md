@@ -46,7 +46,7 @@ Abstract (TBD)
 </details>
 
 
-<details><summary>**Introduction** (Paul Whatmough)</summary>
+<details><summary><b>Introduction<\b> (Paul Whatmough)</summary>
   
 Abstract (TBD)
 </details>
