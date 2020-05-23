@@ -67,7 +67,10 @@ This tutorial sets out to present a clear and straightforward template for a mod
   "Custom IP Development", Paul Whatmough
   </summary>
   
-  Abstract (TBD)
+  * Overview
+  * Interface and control
+  * Hardware description
+  * SystemVerilog coding guidelines
 </details>
   
   
