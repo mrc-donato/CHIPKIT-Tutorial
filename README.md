@@ -44,7 +44,7 @@ This tutorial sets out to present a clear and straightforward template for a mod
     
 
 <details><summary>
-  "M-Class SoC Development", Paul Whatmough
+  "M-Class (Microcontroller) SoC Development", Paul Whatmough
   </summary>
   
   * Opportunities for agile and reusable design
@@ -56,7 +56,7 @@ This tutorial sets out to present a clear and straightforward template for a mod
 
 
 <details><summary>
-  "A-Class SoCs", Marco Donato
+  "A-Class (Apps Processor) SoC Development", Marco Donato
   </summary>
   
   Abstract (TBD)
