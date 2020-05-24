@@ -35,11 +35,13 @@ This tutorial sets out to present a clear and straightforward template for a mod
   "Introduction", Paul Whatmough
   </summary>
   
+  <BLOCKQUOTE>
   * Who are we?
   * Why build test chips in academia?
   * Goals of the tutorial
   * Different types of test chips
   * Some recent Harvard test chips
+  </BLOCKQUOTE>
 </details>
     
 
