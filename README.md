@@ -8,7 +8,7 @@
 
 ## Updates
 
-[CHIPKIT @ ISCA2020](https://www.iscaconf.org/isca2020/program/workshops.html#chipkit)
+[CHIPKIT @ISCA'20](https://www.iscaconf.org/isca2020/program/workshops.html#chipkit)
 
 [Register for tutorial](https://www.iscaconf.org/isca2020/attend/register.html)
 
@@ -134,8 +134,9 @@ support for method-based interfaces; PyMTL passes for analyzing, instrumenting, 
 
 ## Previous Tutorials
 
-[CHIPKIT @ MICRO 2019](https://www.microarch.org/micro52/program/workshops.html#chipkit)
+[CHIPKIT @ISCA'20](https://www.iscaconf.org/isca2020/program/workshops.html#chipkit)
 
+[CHIPKIT @MICRO'19](https://www.microarch.org/micro52/program/workshops.html#chipkit)
 
 ## BibTeX
 
