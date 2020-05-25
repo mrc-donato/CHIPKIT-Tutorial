@@ -10,6 +10,8 @@
 
 [CHIPKIT @ISCA'20](https://www.iscaconf.org/isca2020/program/workshops.html#chipkit)
 
+31st May 2020, 10am-1pm EDT - Live Q&A session.  Pre-recorded videos available during the conference via the Whova app.
+
 [Register for tutorial](https://www.iscaconf.org/isca2020/attend/register.html)
 
 The tutorial is going to be offered in a virtual format (details TBD).
