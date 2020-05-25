@@ -14,8 +14,6 @@
 
 [Register for tutorial](https://www.iscaconf.org/isca2020/attend/register.html)
 
-The tutorial is going to be offered in a virtual format (details TBD).
-
 
 ## Overview
 
