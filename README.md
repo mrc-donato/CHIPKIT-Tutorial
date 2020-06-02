@@ -1,8 +1,7 @@
 # CHIPKIT: 2nd Tutorial on Agile Research Test Chips @ISCA'20
 
-[**Paul Whatmough**](https://www.linkedin.com/in/paul-whatmough-2062729/) (Arm Research/Harvard), **Marco Donato** (Harvard), [**Glenn Ko**](https://www.glennko.com) (Harvard), **Sae-Kyu Lee** (IBM Research), **David Brooks** (Harvard), and **Gu-Yeon Wei** (Harvard)
+[**Paul Whatmough**](https://www.linkedin.com/in/paul-whatmough-2062729/) (Arm Research/Harvard), [**Marco Donato**](https://www.marcodonato.com) (Harvard), [**Glenn Ko**](https://www.glennko.com) (Harvard), **Sae-Kyu Lee** (IBM Research), **David Brooks** (Harvard), and **Gu-Yeon Wei** (Harvard)
 
-##
 
 ![Harvard Chip Gallery](./images/Chip_Gallery.png)
 
@@ -12,8 +11,7 @@
 
 31st May 2020, 10am-1pm EDT - Live Q&A session.  Pre-recorded videos available during the conference via the Whova app.
 
-[Register for tutorial](https://www.iscaconf.org/isca2020/attend/register.html)
-
+[Download the tutorial slides](https://marcodonato.com/assets/CHIPKIT_Tutorial_ISCA.pdf)
 
 ## Overview
 
