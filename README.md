@@ -95,7 +95,8 @@ This tutorial sets out to present a clear and straightforward template for a mod
   "OpenROAD: An open-source RTL-to-GDS tool with advanced-node capability", Andrew Kahng (UCSD)
   </summary>
   
-  <BLOCKQUOTE>Open-source EDA boosts the lifecycle and robustness of academic EDA research while providing a bridge to industrial design practice. For architects and IC designers, open-source tool chains can enable early prototyping and design space exploration, and can help bring ideas to manufacturing-ready layout with reduced schedule and cost. We will give an overview and demo of the forthcoming v1.0 release (July 2020) of RTL-to-GDS automation from the <a href="https://theopenroadproject.org/">OpenROAD project<\a>. The talk will also note relevant aspects of tool architecture, database, software engineering, and potential synergies with future hardware and architecture innovation. <a href="https://marcodonato.com/assets/OpenROAD-ISCA20-CHIPKIT-Overview-FINAL-DISTRIBUTED.pdf">Slides</a></BLOCKQUOTE>
+  <BLOCKQUOTE>Open-source EDA boosts the lifecycle and robustness of academic EDA research while providing a bridge to industrial design practice. For architects and IC designers, open-source tool chains can enable early prototyping and design space exploration, and can help bring ideas to manufacturing-ready layout with reduced schedule and cost. We will give an overview and demo of the forthcoming v1.0 release (July 2020) of RTL-to-GDS automation from the <a href="https://theopenroadproject.org/">OpenROAD project<\a>. The talk will also note relevant aspects of tool architecture, database, software engineering, and potential synergies with future hardware and architecture innovation. <a href="https://marcodonato.com/assets/OpenROAD-ISCA20-CHIPKIT-Overview-FINAL-DISTRIBUTED.pdf">Slides</a> 
+</BLOCKQUOTE>
 </details>
     
 <details><summary>
@@ -104,7 +105,8 @@ This tutorial sets out to present a clear and straightforward template for a mod
   
   <BLOCKQUOTE>PyMTL3 is a new Python-based framework for hardware modeling, generation, simulation, and verification well suited to implementing computer architecture test chips. PyMTL2 was developed several years ago and has been used extensively in research, teaching, and prototyping. PyMTL3 retains some of the best features of PyMTL2 including: support for highly
 paramterized accelerator generators; a unified framework for functional-, cycle-, and register-transfer level modeling; pure-Python-based simulation; elegant translation of PyMTL RTL to Verilog RTL; and first-class support for co-simulation of PyMTL and Verilog models through Python/Verilator integration. PyMTL3 additionally includes a completely new execution model based on hierarchical static scheduling of concurrent sequential update blocks; improved simulation performance; first-class
-support for method-based interfaces; PyMTL passes for analyzing, instrumenting, and transforming PyMTL models; and improved verification methodologies. This talk will introduce the PyMTL3 framework and walk-through a hands-on demo illustrating some of the more basic features for register-transfer-level modeling with PyMTL3. <a href="https://marcodonato.com/assets/pymtl3-chipkit-isca2020.pdf">Slides</a></BLOCKQUOTE>
+support for method-based interfaces; PyMTL passes for analyzing, instrumenting, and transforming PyMTL models; and improved verification methodologies. This talk will introduce the PyMTL3 framework and walk-through a hands-on demo illustrating some of the more basic features for register-transfer-level modeling with PyMTL3. <a href="https://marcodonato.com/assets/pymtl3-chipkit-isca2020.pdf">Slides</a>
+</BLOCKQUOTE>
 </details>
     
 <details><summary>
