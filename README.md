@@ -11,7 +11,7 @@
 
 31st May 2020, 10am-1pm EDT - Live Q&A session.  Pre-recorded videos available during the conference via the Whova app.
 
-[Download the tutorial slides](https://marcodonato.com/assets/CHIPKIT_Tutorial_ISCA.pdf)
+[Download the tutorial slides](https://www.eecs.tufts.edu/~mdonato/assets/CHIPKIT_Tutorial_ISCA.pdf)
 
 ## Overview
 
